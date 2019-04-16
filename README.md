@@ -48,7 +48,7 @@ the 2nd is its weight and the 3rd is its cost. E.g.
 
 For each set of things that you put into the package provide a list (items’ index numbers are separated by comma). E.g.
 
- 4
- -
- 2,7
- 8,9
+    4
+    -
+    2,7
+    8,9
