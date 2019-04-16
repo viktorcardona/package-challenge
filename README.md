@@ -14,8 +14,11 @@ Then it is needed to call the pack static method from the com.mobiquityinc.packe
 
 Use of the knapsack algorithm to solve the challenge.
 The algorithm is based the Dynamic Programming approach and it provides a performance of O(n*W) where:
+
     - n: Number of items available to be selected packed
+
     - W: Package weight limit
+
 The knapsack algorithm is based on numeric values without decimals, therefore, it was needed to remove the decimal part from the input values.
 
 ## Introduction
@@ -43,8 +46,8 @@ the 2nd is its weight and the 3rd is its cost. E.g.
 
 ## Output sample
 
-For each set of things that you put into the package provide a list (items’ index numbers are separated
-by comma). E.g.
+For each set of things that you put into the package provide a list (items’ index numbers are separated by comma). E.g.
+
 4
 -
 2,7
